@@ -38,7 +38,6 @@ Controller → Service → Repository → Database
 |-------|----------|-------------|
 | POST | /studentinfo/add | Add new student |
 | GET | /studentinfo/all | Get all students |
-| GET | /studentinfo/{id} | Get student by ID |
 | PUT | /studentinfo/update/{id} | Update student details |
 | DELETE | /studentinfo/delete/{id} | Delete student |
 
